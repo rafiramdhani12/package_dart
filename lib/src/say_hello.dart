@@ -1,5 +1,5 @@
 String sayHello(String name) {
-  return 'Hello, $name!';
+  return 'Hello, $name! Welcome to Dart programming.';
 }
 
 void sample() {
